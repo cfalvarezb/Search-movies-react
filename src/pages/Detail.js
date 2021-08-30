@@ -49,7 +49,7 @@ export class Detail extends Component {
                 <img src={Poster} /> 
                 <h3>{Actors}</h3>
                 <span>{Metascore}</span>
-                <p>Plot</p>
+                <p>{Plot}</p>
             </div>
         )
     }
